@@ -1,0 +1,53 @@
+# Lamiaceae – Lavanda (*Lavandula angustifolia*)
+
+## 1. Información general
+- **Nombre botánico**: *Lavandula angustifolia* Mill.
+- **Familia botánica**: Lamiaceae
+- **Parte utilizada**: Sumidades floridas
+- **Tipo de destilación**: Destilación al vapor de agua
+- **Origen geográfico**: Región mediterránea, Francia, Bulgaria
+- **Rendimiento típico**: 0.2–0.5% hidrolato por peso fresco
+
+## 2. Propiedades físico-químicas
+- **pH típico**: 4.5 – 5.0
+- **Olor**: Floral, herbáceo, suave
+- **Color**: Incoloro o ligeramente opalescente
+- **Solubilidad**: Soluble en agua
+- **Conservación**: Refrigerado, 12–24 meses
+
+## 3. Composición química clasificada
+| Tipo químico                | En AE                                  | En H                                 | En ambos             |
+|----------------------------|----------------------------------------|--------------------------------------|----------------------|
+| **Alcoholes monoterpénicos** | Linalool, α-terpineol, borneol         | Linalool, borneol, α-terpineol       | ✔️                   |
+| **Ésteres monoterpénicos**  | Linalyl acetate                         | –                                    | –                    |
+| **Óxidos / cetonas**        | 1,8‑Cineol, lavandulol, terpinen-4-ol   | 1,8‑Cineol, linalool óxidos (trazas) | ✔️                   |
+| **Sesquiterpenos**          | β‑caryophyllene, β‑farnesene            | –                                    | –                    |
+
+**Pendiente:** confirmar presencia de monoterpenos no oxigenados (ej. limoneno, α‑pinene) en hidrolato.
+
+## 4. Propiedades terapéuticas
+- **Dermatológicas**: Calmante, regenerador, antiséptico
+- **Psicoemocionales**: Relajante, ansiolítico leve, favorece el sueño
+- **Sistémicas**: Antiespasmódico, digestivo suave
+- **Energéticas**: Equilibrio emocional, plexo solar, corazón
+
+## 5. Indicaciones y aplicaciones
+- **Tópico**: Brumas, after-sun, piel infantil
+- **Oral**: Agua aromática para insomnio o estrés (1 cdita/vaso)
+- **Ambiental**: Difusores, spray para espacios de descanso
+- **Cosmética natural**: Tónicos para piel sensible o acneica
+
+## 6. Seguridad y contraindicaciones
+- **Vía oral**: Generalmente segura; consultar durante embarazo
+- **Almacenaje**: Frasco ámbar, refrigerado, no más de 12 meses abierto
+- **Advertencias**: Posible irritación si está contaminado o vencido
+
+## 7. Datos adicionales
+- **Compatibilidad con AE**: Rosa, neroli, geranio, sándalo
+- **Documentación científica**: Ansiedad, dermatitis, insomnio【19:3†Hydrosols The Next Aromatherapy】
+- **Notas sensoriales**: Hidrolato maternal, tranquilizante, adaptable a muchas sinergias
+
+## 8. Referencias
+- [1] Suzanne Catty, *Hydrosols – The Next Aromatherapy*【19:3†Hydrosols The Next Aromatherapy】
+- [2] Price & Price, *Aromatherapy for Health Professionals*【19:2†Aromatherapy for Health Professionals】
+- [3] *Guide des eaux florales et hydrolats*【19:5†Guide des eaux florales et hydrolats】

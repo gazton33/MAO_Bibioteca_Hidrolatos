@@ -1,0 +1,74 @@
+# Proyecto: Libro de Hidrolatos e Hidrolaterapia
+
+## 1. Referencias clave iniciales
+
+### Fuentes bibliográficas base:
+- Buckle, J. (2003). *Clinical Aromatherapy: Essential Oils in Practice*.
+- Price, S. & Price, L. (2007). *Aromatherapy for Health Professionals*.
+
+Ambas obras mencionan los hidrolatos en contextos clínicos, terapéuticos y aromatológicos, y servirán como cimiento para la estructura científica, histórica y metodológica del libro.
+
+---
+
+## 2. Workflow General para la Fase 1: Investigación y Filtrado de Data
+
+```markdown
+## Fase 1: Recopilación y Filtrado de Información para el Libro "Hidrolaterapia en Aromaterapia"
+
+### 1. Objetivos de esta fase
+- Compilar información científica, técnica y tradicional sobre hidrolatos.
+- Clasificar fuentes confiables por temas.
+- Determinar vacíos informativos para futuras búsquedas web o bibliográficas.
+
+### 2. Criterios de Recolección
+- Composición química (INCI, compuestos principales, pH, solubilidad, microbiología).
+- Métodos de obtención (destilación al vapor, coobtenidos, presión, ultrasonidos).
+- Usos terapéuticos: tópicos, orales, ambientales, energéticos.
+- Seguridad: toxicidad, estabilidad, conservación.
+- Aplicaciones clínicas: dermatología, pediatría, ginecología, etc.
+- Usos psicoemocionales y sensoriales.
+- Estudios científicos (referencias cruzadas y resumen).
+
+### 3. Fuentes a Priorizar
+- Libros técnicos validados.
+- Publicaciones científicas (PubMed, ResearchGate, Elsevier).
+- Manuales de destiladores, fitoterapeutas, y aromatólogos.
+- Observaciones clínicas de terapeutas.
+
+### 4. Herramientas de Clasificación y Almacenamiento
+- Base de datos colaborativa (Google Sheets / Notion / Airtable).
+- Carpeta de archivos con PDFs, links y fichas.
+- Resúmenes en formato .md por planta/hidrolato.
+
+### 5. Roles y Tareas
+- GPT: lectura de fuentes, resumen por planta, extracción de datos químicos.
+- Usuario: definir enfoque terapéutico, aportar documentos, validar fuentes.
+- Ambos: decidir estructura del libro, estilo de redacción, tablas y gráficos.
+
+### 6. Checkpoints
+- [ ] Crear plantilla de ficha por hidrolato
+- [ ] Analizar capítulos específicos de Buckle y Price
+- [ ] Identificar plantas clave para incluir en el libro
+- [ ] Priorizar 10 hidrolatos base para fichas piloto
+- [ ] Establecer clasificación temática del contenido
+- [ ] Montar sistema de feedback iterativo (Knowledge Tracker)
+
+### 7. Resultados Esperados
+- Lista curada de referencias científicas.
+- Fichas base por hidrolato con datos técnicos, clínicos y sensoriales.
+- Esquema de capítulos del libro.
+- Mapa temático para futuras investigaciones.
+```
+
+---
+
+## 3. Implementación de "Memoria Viva" (Knowledge Tracker)
+
+Se inicia un *knowledge base* en paralelo para registrar:
+- Preferencias del usuario en estructura, estilo y profundidad.
+- Progreso por fases y capítulos.
+- Reglas editoriales acordadas.
+- Feedback específico por tipo de contenido (científico, terapéutico, visual).
+- Hidrolatos trabajados, fuentes utilizadas, vacíos detectados.
+
+¿Deseas que comencemos creando la plantilla .md para las fichas de hidrolatos y activar el registro del knowledge tracker ahora?

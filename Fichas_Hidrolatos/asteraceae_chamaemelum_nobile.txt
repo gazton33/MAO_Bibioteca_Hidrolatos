@@ -1,0 +1,52 @@
+# Asteraceae – Manzanilla Romana (*Chamaemelum nobile*)
+
+## 1. Información general
+- **Nombre botánico**: *Chamaemelum nobile* (L.) All.
+- **Familia botánica**: Asteraceae
+- **Parte utilizada**: Flores frescas
+- **Tipo de destilación**: Destilación al vapor
+- **Origen geográfico**: Europa occidental (Francia, Reino Unido)
+- **Rendimiento típico**: ≈ 0.1% AE, abundante en hidrolato【107:3†Aromatherapy for Health Professionals】
+
+## 2. Propiedades físico-químicas
+- **pH típico**: 4.1 – 4.4
+- **Olor**: Suave, herbáceo-frutal, ligeramente dulce y verde【107:6†Hydrosols The Next Aromatherapy】
+- **Color**: Incoloro o ligeramente amarillento
+- **Solubilidad**: Soluble en agua
+- **Conservación**: 12 a 18 meses, mantener refrigerado
+
+## 3. Composición química clasificada
+| Tipo químico              | En AE                              | En H                             | En ambos         |
+|--------------------------|------------------------------------|----------------------------------|------------------|
+| **Ésteres**              | Isobutyl angelato, isobutyl isobutyrate | Ésteres solubles (trazas no especificadas) | ✔️               |
+| **Monoterpenoles**       | Linalol, α-terpineol               | –                                | –                |
+| **Sesquiterpenoles**     | Farnesol                           | –                                | –                |
+| **Oxidos y cetonas**     | 1,8-cineol, azulenos (mínimos)     | 1,8-cineol (trazas)              | ✔️               |
+
+**Pendiente:** Confirmar presencia exacta de isobutyl angelato en hidrolato (baja solubilidad)【107:6†Hydrosols The Next Aromatherapy】
+
+## 4. Propiedades terapéuticas
+- **Dermatológicas**: Antiinflamatorio, calmante, piel sensible
+- **Psicoemocionales**: Sedante suave, útil en cólera, insomnio y ansiedad infantil
+- **Sistémicas**: Antiespasmódico, digestivo, alivio de cólicos y flatulencias
+- **Energéticas**: Desbloqueo emocional del plexo solar, contención infantil
+
+## 5. Indicaciones y aplicaciones
+- **Tópico**: En cremas, lociones postdepilación, quemaduras solares
+- **Oral**: 1–2 cditas en agua para indigestión y trastornos menstruales
+- **Ambiental**: Spray calmante en dormitorios y espacios terapéuticos
+- **Cosmética natural**: Tónicos, emulsiones para piel sensible
+
+## 6. Seguridad y contraindicaciones
+- **Vía oral**: Segura; observar posibles alergias cruzadas con otras asteráceas
+- **Almacenaje**: Frasco opaco y refrigerado
+- **Advertencias**: No usar en caso de alergia confirmada a camomilas
+
+## 7. Datos adicionales
+- **Compatibilidad con AE**: Lavanda, rosa, neroli, sándalo
+- **Documentación científica**: Bien documentado como sedante suave e inmunomodulador【107:3†Aromatherapy for Health Professionals】
+- **Notas sensoriales**: Aroma maternal, dulce, ideal para niñez y calma emocional
+
+## 8. Referencias
+- [1] Suzanne Catty, *Hydrosols – The Next Aromatherapy*【107:6†Hydrosols The Next Aromatherapy】
+- [2] Shirley & Len Price, *Aromatherapy for Health Professionals*【107:3†Aromatherapy for Health Professionals】
