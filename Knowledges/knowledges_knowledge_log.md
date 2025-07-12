@@ -1,47 +1,26 @@
-# Knowledge Raw – Integración Sudamérica (dump final)
+# Knowledge Log – Cierre de integración
 
-Este archivo recoge todo el volcado crudo de datos, menciones de especies, advertencias, aplicaciones y conceptos detectados en los dos PDFs sudamericanos, antes de depurarlo para fichas y logs definitivos.
+Registro de decisiones, incidencias y aprendizaje en la integración de los 6 libros principales y fichado de 44 especies.
 
----
+## Aprendizaje y mejoras metodológicas
+- El flujo por familias/fichas asegura cobertura y control de calidad
+- El registro de pendientes, vacíos y advertencias permitió documentar riesgos y desafíos
+- Se afianzó el uso de archivos de integración y logs para la trazabilidad viva
 
-## Asteraceae
-- Boldo (*Peumus boldus*): hojas, uso tradicional digestivo, alto en boldina (alcaloide), hidrolato poco estudiado.
-- Muña (*Minthostachys mollis*): sumidades, uso andino, monoterpenos como pulegona, mentol. Advertencia por toxicidad de pulegona.
-- Arrayán patagónico (*Luma apiculata*): hojas y ramas, aplicaciones tópicas, composición variable.
-- Palo santo (*Bursera graveolens*): madera y ramas, uso en ceremonias, variabilidad química según maduración.
-- Baccharis spp.: sumidades, usos detox y digestivos, gran variabilidad entre especies, uso popular en el sur.
-- Stevia (*Stevia rebaudiana*): hojas, dulzor natural, información limitada sobre hidrolato.
+## Incidencias
+- Se identificaron numerosas diferencias de composición química según fuente y región
+- La falta de estudios en especies sudamericanas obliga a mantener fichas con advertencias y llamados a la validación
+- Se generó y usó el archivo *INCONGRUENCIAS_LITERATURA.md* para centralizar dudas
 
-## Myrtaceae
-- Arrayán criollo (*Myrceugenia* spp.): hojas y ramas, aroma herbal fresco, usos tópicos y ambientales.
-- Eucalipto criollo (*Eucalyptus camaldulensis*, *E. saligna*): hojas, expectorante, composición similar a especies europeas pero con variantes.
+## Estado
+- 44 fichas completas y documentadas
+- Cero pendientes para la bibliografía trabajada
 
-## Lauraceae
-- Laureles nativos (*Laurelia*, *Laureliopsis*, *Ocotea* spp.): hojas y corteza, perfil similar a eucalipto/laurel, uso tradicional en Patagonia.
-- Canela (*Cinnamomum* spp.): corteza y hojas, uso especiado, mayoría de info extrapolada de bibliografía internacional.
-
-## Aquifoliaceae
-- Guayusa (*Ilex guayusa*): hojas, usos rituales, presencia de cafeína y teobromina, sin estudios sobre hidrolato.
-- Yerba mate (*Ilex paraguariensis*): hojas, tradicional como infusión, información sobre hidrolato experimental y limitada.
-
-## Winteraceae
-- Canelo (*Drimys winteri*): corteza y hojas, aroma picante, uso ritual mapuche, muy poca literatura sobre hidrolato.
-
-## Hallazgos adicionales
-- Varias especies comparten compuestos mayoritarios: ácido cafeico, linalool, cineol, flavonoides hidrosolubles.
-- Advertencias comunes: falta de estudios, extrapolación de usos de aceites esenciales, necesidad de validación cromatográfica.
-- Se detectan sinónimos regionales, problemas de nomenclatura y variabilidad química por bioma.
-
-## Vacíos y pendientes
-- Hidrolatos amazónicos poco documentados.
-- Muy pocos estudios sobre toxicidad y eficacia clínica.
-- Poca información sobre conservación y estabilidad en especies locales.
-
-## Fuentes
-- 2024_[AUTOR]_LibroSudamericano1.pdf
-- 2024_[AUTOR]_LibroSudamericano2.pdf
-- Referencias cruzadas a Catty, Price & Price, literatura etnobotánica.
+## Sugerencias para futuras rondas
+- Actualizar siempre checklist y logs en paralelo
+- Documentar cualquier nueva especie o vacío al detectar fuentes adicionales
+- Profundizar validaciones cromatográficas en futuras ampliaciones
 
 ---
-*Este dump debe limpiarse y volcarse a fichas, knowledge_log y checklist tras cada ronda de integración.*
+*Memoria viva y feedback para el control de calidad de futuras iteraciones.*
 
